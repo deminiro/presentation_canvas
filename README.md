@@ -1,3 +1,6 @@
+video presentaition - https://youtu.be/UJED8ajHTK8.
+slides - https://deminiro.github.io/presentation_canvas/
+
 <Slide: introductoin - 1>
 Hi, my name Denis. My topic of presentation is Canvas.
 
